@@ -11,7 +11,7 @@ function App() {
                             <img src="assets/images/log4.png" 
                             alt="appmyil logo" className="logo1" />
                             <span  className="logo2" >
-                                Ask to Learn
+                                Ask to Learn AI
                             </span>
                     </div>
                     <div className="col-lg-7 col-md-3 col-3">
@@ -38,35 +38,25 @@ function App() {
                             <div className="tm-heroslider-content">
                                 <h1 className='mainT2'>
                                     
-                                    {/* Give your students a platform to record 
-                                     their screen or camera 
-                                        and send you  video  questions 
-                                        for a monthly subscription */}
-                                    Give your students a platform to
-                                    send you video questions for 
-                                    <br /> asynchronous
-                                    <div class="dropping-texts">
-                                    <div>teaching</div>
-                                    <div>coaching</div>
-                                    <div>tutoring</div>
-                                    <div>mentoring</div>
-
-                                    </div>
+                                    We help teachers create AI tutors to assist students with their questions
                                     
                                     
                                      
 
                                 </h1>                                
                                 <p className='mainT3'>                                    
-                                      
-                                         Your students can record their screen or camera and send you a <br className='brr2' />  
-                                         predefined amount
-                                         of video questions for a monthly subscription
+                                    Our platform use Retrieval-Augmented Generation (RAG) 
+                                    to Train AI on your courses, videos, documents, and 
+                                    all your teaching material to create AI tutors 
+                                    to assist your students 24/7 with their questions
+
+                                    
+                                         
                                          
                                 </p>
                                 <div className="tm-buttongroup">
                                     <a target="_blank" href="https://app.asktolearn.co" className="tm-button tm-button-lg tm-button-white tm-button-transparent">
-                                        <span>No Cost for Teachers to Get Started </span></a>                                    
+                                        <span>Create your profile for free </span></a>                                    
                                 </div>
                                 <a  className="tm-heroslider-scrolldown">
                                     <i className="zmdi zmdi-square-down"></i>
@@ -110,8 +100,8 @@ function App() {
                     {/* Offer a more complete  and  engaging learning experience to your students. <br className='brr' />            */}
                     {/* Most of the times students have a hard time <br />
                     trying to implement or follow what they learned in a online course        */}
-                    Since you and your student don't need to be online at the same time <br />
-                    you can answer questions from students around the world at your own pace
+                    you and your students don't need to be online at the same time <br />
+                    Your AI tutor can answer questions from students around the world 24/7
                                  
                                                  
                     </p>
@@ -147,11 +137,11 @@ function App() {
                                 <img src="assets/images/teach1.png" alt="image not found" className='workImg2' />
                             </div>
                             <div class="work__content">
-                                <h3><a >Students ask you video questions  </a></h3>
+                                <h3><a >Students ask you questions  </a></h3>
                                 <p>
                                
                                 Your students use our platform to  record their screen or camera and send 
-                                you video questions
+                                you  questions
                                 </p>                                                                
                             </div>
                         </div>
@@ -164,7 +154,7 @@ function App() {
                                 />
                             </div>
                             <div class="work__content">
-                                <h3><a>Start answering your students  questions </a></h3>
+                                <h3><a> AI tutor Start answering your students   </a></h3>
                                 <p>
                                 Use our platform to answer your student questions
                                 by recording your screen or camera
