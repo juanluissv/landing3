@@ -912,6 +912,12 @@ blockquote footer a:hover {
   color: #5809e0;
 }
 
+.workImg23{
+  width: 35%;
+  padding-bottom: 20px;
+
+}
+
 @media only screen and (max-width: 767px) {
   blockquote {
     font-size: 16px;
@@ -3450,7 +3456,11 @@ button.tm-videobutton.tm-videobutton-lg span i {
 .workImg23{
   width: 40%;
   padding-bottom: 30px;
+}
 
+.workImg233{
+  width: 40%;
+  padding-bottom: 30px;
 }
 
 .workImg44{
