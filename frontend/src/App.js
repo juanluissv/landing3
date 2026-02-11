@@ -20,7 +20,7 @@ function App() {
                                 <li><a target="_blank" href="https://tutors23.vercel.app">
                                 Login</a></li>
                                 <li><a target="_blank" href="https://tutors23.vercel.app">
-                                click here for demo </a></li>
+                                Click here for demo </a></li>
                             </ul>
                         </nav>
                     </div>
