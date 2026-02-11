@@ -17,10 +17,10 @@ function App() {
                     <div className="col-lg-7 col-md-3 col-3">
                         <nav className="tm-navigation tm-header-navigation">
                             <ul className='menuTop'>
-                                <li><a target="_blank" href="https://app.asktolearn.co">
+                                <li><a target="_blank" href="https://tutors23.vercel.app">
                                 Login</a></li>
-                                <li><a target="_blank" href="https://app.asktolearn.co">
-                                Create your tutor for free </a></li>
+                                <li><a target="_blank" href="https://tutors23.vercel.app">
+                                click here for demo </a></li>
                             </ul>
                         </nav>
                     </div>
@@ -56,7 +56,7 @@ function App() {
                                          
                                 </p>
                                 <div className="tm-buttongroup">
-                                    <a target="_blank" href="https://app.asktolearn.co" className="tm-button tm-button-lg tm-button-white tm-button-transparent">
+                                    <a target="_blank" href="https://tutors23.vercel.app" className="tm-button tm-button-lg tm-button-white tm-button-transparent">
                                         <span>Create your tutor for free </span></a>                                    
                                 </div>
                                 <a  className="tm-heroslider-scrolldown">
@@ -402,7 +402,7 @@ function App() {
                                 <p>
                                 </p>
                                 
-                                <a target="_blank" href="https://app.asktolearn.co" className="tm-button create2">
+                                <a target="_blank" href="https://tutors23.vercel.app" className="tm-button create2">
                                     <span >Create your tutor for free </span></a>
                             </div>
                         </div>
@@ -639,7 +639,7 @@ function App() {
                             </div><br /><br /><br />
                         </div> */}
                         <div className="offset-lg-3 col-lg-6 col-md-6 col-12">
-                        <a target="_blank" href="https://app.asktolearn.co" className="tm-button create1">
+                        <a target="_blank" href="https://tutors23.vercel.app" className="tm-button create1">
                             <span >Create your tutor for free </span></a>
                         </div>
                     </div>
@@ -672,9 +672,9 @@ function App() {
                                 <h5 className="widget-title">Home </h5>
                                 <ul>
                                     <li>
-                                    <a target="_blank" href="https://app.asktolearn.co">                                       
+                                    <a target="_blank" href="https://tutors23.vercel.app">                                       
                                          Login</a></li>
-                                    <li><a target="_blank" href="https://app.asktolearn.co">
+                                    <li><a target="_blank" href="https://tutors23.vercel.app">
                                         Create your tutor </a></li>                                    
                                 </ul>
                             </div>
