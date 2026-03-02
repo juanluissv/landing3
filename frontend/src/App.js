@@ -45,19 +45,19 @@ function App() {
 
                                 </h1>                                
                                 <p className='mainT3'>                                    
-                                    Our platform use  (RAG) technology
+                                    {/* Our platform use  (RAG) technology
                                     to Train AI on your courses, videos, documents, and 
                                     all your teaching material to create AI tutors 
                                     to assist your students 24/7 with their questions and answer 
-                                    strictly from class syllabus and your teaching materials
-
+                                    strictly from class syllabus and your teaching materials */}
+                                    Our platform uses AI to create interactive lessons based on class textbooks <br /> and personalized AI tutors to assist your students with their questions 24/7 <br /> and answer strictly from class syllabus and your teaching materials
                                     
                                          
                                          
                                 </p>
                                 <div className="tm-buttongroup">
                                     <a target="_blank" href="https://tutors23.vercel.app" className="tm-button tm-button-lg tm-button-white tm-button-transparent">
-                                        <span>Create your tutor for free </span></a>                                    
+                                        <span>Create your AI tutor for free </span></a>                                    
                                 </div>
                                 <a  className="tm-heroslider-scrolldown">
                                     <i className="zmdi zmdi-square-down"></i>
@@ -67,7 +67,7 @@ function App() {
                         <div className="col-xl-4 col-lg-5 order-1 order-lg-2">
                             <div className="tm-heroslider-mobileshow">
                                 <img 
-                                    src="https://teachbetter.ai/wp-content/uploads/2025/01/Homepage-Image-1.png" 
+                                    src="/homepage-Image-1.png" 
                                     alt="appmyil mobile" 
                                     className='headerImg'
                                      />
@@ -91,7 +91,7 @@ function App() {
                     <div class="section__title-wrapper text-center mb-70">
                     <div className="tm-sectiontitle text-center piece1">
                                 <h3>
-                                We believe in empowering teachers with AI not replacing them                           
+                                Our Mission is to empower schools and teachers with AI                            
 
                                 </h3>
                                 <span className="tm-sectiontitle-divider"><i className="zmdi zmdi-fullscreen"></i></span>
@@ -101,7 +101,7 @@ function App() {
                     {/* Most of the times students have a hard time <br />
                     trying to implement or follow what they learned in a online course        */}
                     {/* You and your students don't need to be online at the same time <br /> */}
-                    Your AI tutor can answer questions from students around the world 24/7
+                    
                                  
                                                  
                     </p>
@@ -120,13 +120,11 @@ function App() {
                                 />
                             </div>
                             <div class="work__content">
-                                <h3><a >Students get stuck learning a new skill</a></h3>
+                                <h3><a >Create Interactive Book Lessons</a></h3>
                                 <p>
                                    {/* Upload a course and set a predefined number of questions
                                     your students can ask you for a monthly subscription */}
-                                    When your students get stuck learning a new skill 
-                                    send them to your 24/7 tutor assistant
-
+                                    Our platform Create Video and Audio version of the lessons and students can listen and read the lecture at the same time
                                 </p>
                             </div>
                         </div>
@@ -137,11 +135,9 @@ function App() {
                                 <img src="assets/images/teach1.png" alt="image not found" className='workImg2' />
                             </div>
                             <div class="work__content">
-                                <h3><a >Students ask your AI tutor questions  </a></h3>
+                                <h3><a >Bilingual Learning  <br /> Lessons</a></h3>
                                 <p>
-                               
-                                Your students use our platform to ask 
-                                your tutor questions via chat, audio or video
+                                    Our Platform translates your teaching material to any language if you want to offer a bilingual learning experience                                                            
                                 </p>                                                                
                             </div>
                         </div>
@@ -154,9 +150,9 @@ function App() {
                                 />
                             </div>
                             <div class="work__content">
-                                <h3><a> Your AI tutor Start answering your students   </a></h3>
+                                <h3><a> AI tutor to answer your students questions   </a></h3>
                                 <p>
-                                Your AI tutor is trained on all your teaching material to answer from your teaching material 
+                                Specialized AI tutor that is trained on your teaching material to answer your students questions  strictly from text books 
                                 </p>
                             </div>
                         </div>                        
@@ -189,7 +185,7 @@ function App() {
                                                         {/* Upload one or more courses and set up your   payouts<br className='brr' />
                                                         account to start receiving monthly payments <br  className='brr' /> from your subscribers */}
                                                         You can create one or more subjects that your students <br className='brr' />
-                                                         can subscribe to and start asking you video questions
+                                                         can subscribe to and start taking lessons and asking questions to your AI tutor
                                                     </p>
                                                 </div>
                                             </div>
@@ -213,8 +209,8 @@ function App() {
                                                              Train your AI tutor                                          
                                                     </h5>
                                                     <p className="text-muted mb-0">
-                                                    Upload or share links to your learning materials like courses, videos, documents, podcast, 
-                                                    online communities to teach your AI tutor to answer like you
+                                                    Upload or share links to your learning materials like books, courses, videos, documents, podcast and 
+                                                    our platform will create interactive lessons from your materials and train an AI tutor to answer your students questions strictly from your teaching materials 
                                                     </p>
                                                 </div>
                                             </div>
@@ -229,7 +225,7 @@ function App() {
                                                         Share your AI tutor with your students
                                                     </h5>
                                                     <p className="text-muted mb-0">                                                   
-                                                    Share a link of your AI tutor with your students so they can start asking  questions
+                                                    Share a link of your AI tutor with your students so they can start taking lessons and asking  questions
 
  
                                                                    
@@ -380,7 +376,7 @@ function App() {
                         <div className="col-lg-6">
                             <div className="tm-about-image">
                                 <img className="tm-about-mobilethumb img3" 
-                                    src="https://cdni.iconscout.com/illustration/premium/thumb/teacher-giving-ai-education-to-students-illustration-svg-download-png-12925241.png"
+                                    src="/12925241.png"
                                     alt="about mobile" />
                             </div>
                         </div>
@@ -390,14 +386,15 @@ function App() {
                                     
                                     <br />
                                     Large language models (LLMs) like Chat GPT are great with general knowledge,
-                                     but they are not in sync with your specific teaching material. <br className='brr' />
+                                     but they are not experts in your specific teaching material. <br className='brr' />
 
                                                                    
                                     
                                 </h4>
                                 <h6 className="text-center">  <br />
                                 Your AI Tutor (Curriculum-aware) can
-                                Answers questions strictly from Class syllabus and your teaching materials
+                                Answers questions strictly from Class syllabus and create video summaries and web versions of your lessons
+                                with synchronised text and audio for a more engaging learning experience  
                                 </h6>
                                 <p>
                                 </p>
@@ -417,7 +414,7 @@ function App() {
                     <div class="section__title-wrapper text-center mb-70">
                     <div className="tm-sectiontitle text-center piece1">
                                 <h2>
-                                Choose how your AI tutor will answer your student questions <br />
+                                Choose how your AI tutor will tech and answer your students <br />
                                                           
                                 </h2>
                                 <span className="tm-sectiontitle-divider"><i className="zmdi zmdi-fullscreen"></i></span>
@@ -437,10 +434,10 @@ function App() {
                                     className='workImg23'
                                 />
                             </div>
-                            <div class="work__content">
+                            <div class="work__content workC1">
                                 <h3><a >Chat </a></h3>
                                 <p>
-                                   Students chat with your AI tutor via text to get instant answers to your questions
+                                   Students can chat with your AI tutor via text to get instant answers to questions 
                                 </p>
                             </div>
                         </div>
@@ -449,21 +446,21 @@ function App() {
 
                             <div class="work__thumb">
                                 <img 
-                                src="https://voiser.net/images/clone.webp" 
+                                src="/audioai.webp" 
                                 alt="image not found" 
                                 className='workImg233' />
                             </div>
                             <div class="work__content">
                                 <h3><a >Voice  </a></h3>
                                 <p>
-                                Clone your voice and let your students ask questions via audio                            
+                                Use our voice feature to listen to the lectures and answers from the AI tutor                            
                                 </p>                                                                
                             </div>
                         </div>
                         <div class="work__item mb-60">
                             <div class="work__thumb">
                                 <img 
-                                    src="https://cdn-static.dupdub.com/frontend/autoupload/dupdub/image/voice_cloning_mobile/voice_cloning_mobile/cloning-banner-mobile.png"
+                                    src="/videoai.png"
                                     alt="image not found"
                                     className='workImg44' 
                                 />
@@ -471,7 +468,7 @@ function App() {
                             <div class="work__content"><br />
                                 <h3 className='global1'>Video </h3>
                                 <p>
-                               Create an clone  avatar that uses your voice to answer questions from your students via video
+                               Create an Video AI avatar that can read your lessons and answer your students questions 
                                 </p>
                             </div>
                         </div>
@@ -499,7 +496,7 @@ function App() {
                                 <div className="tm-blog-topside">
                                     <div className="tm-blog-image">
                                         <img 
-                                            src="https://acerforeducation.acer.com/wp-content/uploads/2020/07/banner-54.jpg" 
+                                            src="/teacher1.jpg" 
                                             alt="appmyil blog image" className="topicImg"
                                         />
                                     </div>
@@ -515,7 +512,7 @@ function App() {
                                 <div className="tm-blog-topside">
                                     <div className="tm-blog-image">
                                         <img 
-                                            src="https://www.pewresearch.org/wp-content/uploads/sites/20/2024/06/SR_24.05.07_SchoolTypes_feature.jpg" 
+                                            src="/teacher2.webp" 
                                             alt="appmyil blog image" className="topicImg"
                                         />
                                     </div>
@@ -531,7 +528,7 @@ function App() {
                                 <div className="tm-blog-topside">
                                     <div className="tm-blog-image">
                                         <img 
-                                            src="https://d1wci53n4f20tv.cloudfront.net/articles/_1920xAUTO_crop_center-center_none/Best-of-Academic-Library-Trends-Western-Kentucky-University-Commons-at-Helm-Library-_-Nick-McGinn.jpg" 
+                                            src="/teacher3.jpg" 
                                             alt="appmyil blog image" className="topicImg"
                                         />
                                     </div>

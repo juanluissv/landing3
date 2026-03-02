@@ -915,8 +915,12 @@ blockquote footer a:hover {
 .workImg23{
   width: 35%;
   padding-bottom: 20px;
-
 }
+
+.workC1{
+  margin-top: 50px;
+}
+
 
 @media only screen and (max-width: 767px) {
   blockquote {
